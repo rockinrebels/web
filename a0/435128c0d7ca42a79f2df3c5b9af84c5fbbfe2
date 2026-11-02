@@ -1,0 +1,14 @@
+pelicanconf.py
+  h_5cb029b479c4c7 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a0435128c0d7ca42a79f2df3c5b9af84c5fbbfe2",
+  "prompts": {},
+  "humans": {
+    "h_5cb029b479c4c7": {
+      "author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
