@@ -1,0 +1,25 @@
+.github/workflows/deploy.yml
+  s_30b325dd4f9f04::t_b70d395f42bea1 25
+pyproject.toml
+  s_30b325dd4f9f04::t_2d7083fc81e187 4,10-13
+uv.lock
+  s_30b325dd4f9f04::t_46f0507f489c09 5-327,331-341
+pelicanconf.py
+  s_30b325dd4f9f04::t_af3624ea9f9ddf 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e0dff4fb046b8f9acc166a647624e30b866a1f0",
+  "prompts": {},
+  "sessions": {
+    "s_30b325dd4f9f04": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6e9b52a2-658c-46e9-8e03-d532998e14a9",
+        "model": "unknown"
+      },
+      "human_author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
