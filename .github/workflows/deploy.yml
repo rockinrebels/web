@@ -22,8 +22,7 @@ jobs:
         
       - name: Build static files
         run: |
-          uv venv
-          uv pip install pelican markdown
+          uv sync --locked
           uv run pelican content -s pelicanconf.py -o output
           
       - name: Upload artifact

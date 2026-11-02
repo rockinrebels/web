@@ -1,6 +1,6 @@
 AUTHOR = 'Michal Zugec'
 SITENAME = "Rockin' Rebels Band"
-SITEURL = '[https://rockinrebels.github.io/web](https://rockinrebels.github.io/web)'
+SITEURL = 'https://rockinrebels.github.io/web'
 
 PATH = "content"
 

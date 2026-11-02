@@ -2,5 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 output/
-uv.lock
 .DS_Store
