@@ -1,0 +1,21 @@
+content/pages/kontakt.md
+  s_30b325dd4f9f04::t_d248a9d47e83c1 1-21
+pelicanconf.py
+  s_30b325dd4f9f04::t_3e3bf8231aea54 38-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6b6e21821fa3ba155b78b0b8120ab386cbe182ba",
+  "prompts": {},
+  "sessions": {
+    "s_30b325dd4f9f04": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6e9b52a2-658c-46e9-8e03-d532998e14a9",
+        "model": "unknown"
+      },
+      "human_author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
