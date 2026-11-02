@@ -1,0 +1,24 @@
+output/archives.html
+  h_5cb029b479c4c7 8,13
+output/authors.html
+  h_5cb029b479c4c7 8,13
+output/categories.html
+  h_5cb029b479c4c7 8,13
+output/index.html
+  h_5cb029b479c4c7 8,13
+output/tags.html
+  h_5cb029b479c4c7 8,13
+pelicanconf.py
+  h_5cb029b479c4c7 19,28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e3ab8c4f630910c9bf16944289c259098812d98",
+  "prompts": {},
+  "humans": {
+    "h_5cb029b479c4c7": {
+      "author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
