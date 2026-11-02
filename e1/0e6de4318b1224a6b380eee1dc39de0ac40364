@@ -1,0 +1,14 @@
+.gitignore
+  h_5cb029b479c4c7 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e10e6de4318b1224a6b380eee1dc39de0ac40364",
+  "prompts": {},
+  "humans": {
+    "h_5cb029b479c4c7": {
+      "author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
