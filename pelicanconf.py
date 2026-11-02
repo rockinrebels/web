@@ -35,3 +35,6 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# Static page content/pages/index.md is the home page; don't generate the blog index over it
+INDEX_SAVE_AS = ''
