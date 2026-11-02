@@ -16,6 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
+LINKS = []
 #LINKS = [
 #    ("Pelican", "https://getpelican.com/"),
 #    ("Python.org", "https://www.python.org/"),
@@ -24,6 +25,7 @@ AUTHOR_FEED_RSS = None
 #]
 
 # Social widget
+SOCIAL = []
 #SOCIAL = [
 #    ("You can add links in your config file", "#"),
 #    ("Another social link", "#"),
