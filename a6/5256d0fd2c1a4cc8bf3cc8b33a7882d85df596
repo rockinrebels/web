@@ -1,0 +1,19 @@
+content/pages/kontakt.md
+  s_e9b86516a1f836::t_27ded3ab73d1e8 4,21,23-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a65256d0fd2c1a4cc8bf3cc8b33a7882d85df596",
+  "prompts": {},
+  "sessions": {
+    "s_e9b86516a1f836": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "29e2c873-bae9-41ae-b122-5de0c956ee6e",
+        "model": "unknown"
+      },
+      "human_author": "Michal Zugec <michal.zugec@rossum.ai>"
+    }
+  }
+}
